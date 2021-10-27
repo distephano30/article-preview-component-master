@@ -167,6 +167,9 @@ h1{
   .main-section{
     width: 100%;
   }
+  .illustration{
+    height: 300px;
+  }
   h1{
     font-size: 1.1rem;
   }
