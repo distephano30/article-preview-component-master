@@ -108,7 +108,7 @@ h1{
   align-items: center;
   padding: 0;
   float: right;
-  margin-bottom: 40px;
+  margin-bottom: 5px;
   visibility: hidden;
 }
 .icon{
@@ -168,12 +168,27 @@ h1{
     width: 100%;
   }
   .illustration{
-    height: 300px;
+    height: 200px;
   }
   h1{
     font-size: 1.1rem;
   }
+  .main-content{
+    margin: 20px auto;
+  }
   .main-content p{
     font-size: .8rem;
   }
+  .bottom-content{
+    margin-top: 20px;
+  }
+  .socials{
+    width: 50%;
+    height: 20px;
+  }
+  .icon{
+    height: 28px;
+    margin-bottom: 10px;
+  }
+
 }
